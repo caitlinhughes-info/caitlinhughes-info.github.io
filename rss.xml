@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Caitlin Hughes Music</title>
+    <link>https://www.caitlinhughes.info/</link>
+    <description>Performances including Caitlin Hughes</description>
+    <copyright>www.caitlinhughes.info</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-gb</language>
+    <pubDate>Thu, 10 Aug 2023 08:30:00 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Aug 2023 08:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.caitlinhughes.info/images/artwork.jpg</url>
+      <title>Caitlin Hughes Music</title>
+      <link>https://www.caitlinhughes.info/</link>
+    </image>
+    <itunes:author>Caitlin Hughes</itunes:author>
+    <itunes:subtitle>Performances including Caitlin Hughes</itunes:subtitle>
+    <itunes:summary>Performances including Caitlin Hughes</itunes:summary>
+    <itunes:keywords>harp, warwick, caitlin, hughes</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://www.caitlinhughes.info/images/artwork.jpg"/>
+    <itunes:owner>
+      <itunes:name>Caitlin Hughes</itunes:name>
+      <itunes:email>contact@caitlinhughes.info</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+    </itunes:category>
+    <item>
+      <title>Viejo Zortzico, by Guridi</title>
+      <description>Caitlin performs her Grade 8 Pieces #5</description>
+      <pubDate>Sat, 30 Apr 2022 10:18:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/viejo-zortzico.m4v" length="50104893" type="video/mp4"/>
+      <guid isPermaLink="false">viejo-zortzico</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Estudie No. 23, by Dizi</title>
+      <description>Caitlin performs her Grade 8 Pieces #4</description>
+      <pubDate>Sat, 30 Apr 2022 10:14:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/estudie-no-23.m4v" length="31296938" type="video/mp4"/>
+      <guid isPermaLink="false">estudie-no-23</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tango, by Salzedo</title>
+      <description>Caitlin performs her Grade 8 Pieces #3</description>
+      <pubDate>Sat, 30 Apr 2022 10:11:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/tango.m4v" length="20803149" type="video/mp4"/>
+      <guid isPermaLink="false">tango</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Gavotte, by Salzedo</title>
+      <description>Caitlin performs her Grade 8 Pieces #2</description>
+      <pubDate>Sat, 30 Apr 2022 10:08:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/gavotte.m4v" length="19613273" type="video/mp4"/>
+      <guid isPermaLink="false">gavotte</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Andante and Larghetto from Harp Concerto in B flat, by Handel</title>
+      <description>Caitlin performs her Grade 8 Pieces #1</description>
+      <pubDate>Sat, 30 Apr 2022 10:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/andante-and-larghetto.m4v" length="56225830" type="video/mp4"/>
+      <guid isPermaLink="false">andante-and-larghetto</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Concerto for Two Violins in D Minor</title>
+      <description>Caitlin performs on the violin with Alex Laing</description>
+      <pubDate>Tue, 09 Feb 2021 14:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/concerto-for-two-violins-in-d-minor.m4v" length="61660636" type="video/mp4"/>
+      <guid isPermaLink="false">concerto-for-two-violins-in-d-minor</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jesukin</title>
+      <description>Caitlin accompanies Oliver Simcock during his performance of Jesukin</description>
+      <pubDate>Sat, 25 Nov 2017 18:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://www.caitlinhughes.info/videos/jesukin-accompany.m4v" length="26259776" type="video/mp4"/>
+      <guid isPermaLink="false">jesukin-accompany</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

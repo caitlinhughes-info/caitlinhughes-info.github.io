@@ -2,27 +2,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Caitlin Hughes Music</title>
-    <link>https://www.caitlinhughes.info/</link>
+    <link>https://caitlinhughes-info.github.io/</link>
     <description>Performances including Caitlin Hughes</description>
-    <copyright>www.caitlinhughes.info</copyright>
+    <copyright>caitlinhughes-info.github.io</copyright>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-gb</language>
     <pubDate>Sun, 13 Oct 2024 19:00:00 +0000</pubDate>
     <lastBuildDate>Mon, 14 Oct 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.caitlinhughes.info/images/artwork.png</url>
+      <url>https://caitlinhughes-info.github.io/images/artwork.png</url>
       <title>Caitlin Hughes Music</title>
-      <link>https://www.caitlinhughes.info/</link>
+      <link>https://caitlinhughes-info.github.io/</link>
     </image>
     <itunes:author>Caitlin Hughes</itunes:author>
     <itunes:subtitle>Performances including Caitlin Hughes</itunes:subtitle>
     <itunes:summary>Performances including Caitlin Hughes</itunes:summary>
     <itunes:keywords>harp, warwick, caitlin, hughes</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="https://www.caitlinhughes.info/images/artwork.png"/>
+    <itunes:image href="https://caitlinhughes-info.github.io/images/artwork.png"/>
     <itunes:owner>
       <itunes:name>Caitlin Hughes</itunes:name>
-      <itunes:email>contact@caitlinhughes.info</itunes:email>
+      <itunes:email>caitlin@cajhughes.com</itunes:email>
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:category text="Arts">
@@ -33,7 +33,7 @@
       <description>Caitlin performs her Grade 8 Pieces #5</description>
       <pubDate>Sat, 30 Apr 2022 10:18:00 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/viejo-zortzico.m4v" length="50104893" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/viejo-zortzico.m4v" length="50104893" type="video/mp4"/>
       <guid isPermaLink="false">viejo-zortzico</guid>
       <itunes:duration>00:06:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -43,7 +43,7 @@
       <description>Caitlin performs her Grade 8 Pieces #4</description>
       <pubDate>Sat, 30 Apr 2022 10:14:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/estudie-no-23.m4v" length="31296938" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/estudie-no-23.m4v" length="31296938" type="video/mp4"/>
       <guid isPermaLink="false">estudie-no-23</guid>
       <itunes:duration>00:03:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -53,7 +53,7 @@
       <description>Caitlin performs her Grade 8 Pieces #3</description>
       <pubDate>Sat, 30 Apr 2022 10:11:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/tango.m4v" length="20803149" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/tango.m4v" length="20803149" type="video/mp4"/>
       <guid isPermaLink="false">tango</guid>
       <itunes:duration>00:02:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -63,7 +63,7 @@
       <description>Caitlin performs her Grade 8 Pieces #2</description>
       <pubDate>Sat, 30 Apr 2022 10:08:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/gavotte.m4v" length="19613273" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/gavotte.m4v" length="19613273" type="video/mp4"/>
       <guid isPermaLink="false">gavotte</guid>
       <itunes:duration>00:02:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -73,7 +73,7 @@
       <description>Caitlin performs her Grade 8 Pieces #1</description>
       <pubDate>Sat, 30 Apr 2022 10:00:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/andante-and-larghetto.m4v" length="56225830" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/andante-and-larghetto.m4v" length="56225830" type="video/mp4"/>
       <guid isPermaLink="false">andante-and-larghetto</guid>
       <itunes:duration>00:07:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -84,7 +84,7 @@
       <description>Caitlin performs on the violin with Alex Laing</description>
       <pubDate>Tue, 09 Feb 2021 14:00:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/concerto-for-two-violins-in-d-minor.m4v" length="61660636" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/concerto-for-two-violins-in-d-minor.m4v" length="61660636" type="video/mp4"/>
       <guid isPermaLink="false">concerto-for-two-violins-in-d-minor</guid>
       <itunes:duration>00:04:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -94,7 +94,7 @@
       <description>Caitlin accompanies Oliver Simcock during his performance of Jesukin</description>
       <pubDate>Sat, 25 Nov 2017 18:00:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <enclosure url="https://www.caitlinhughes.info/videos/jesukin-accompany.m4v" length="26259776" type="video/mp4"/>
+      <enclosure url="https://caitlinhughes-info.github.io/videos/jesukin-accompany.m4v" length="26259776" type="video/mp4"/>
       <guid isPermaLink="false">jesukin-accompany</guid>
       <itunes:duration>00:01:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>

@@ -13,8 +13,8 @@ nav div { margin: 0 auto; width: 1280px; }
 section { margin: 0 auto; width: 1280px; }
 section video { margin: 5px 0; }
 section.strapline { color: #fff; margin: 0 auto; padding: 25px 0 10px; text-align: center; width: 1280px; }
-section.strapline h1 { background-color: #000; font-size: 32px; margin: 0 auto; padding: 20px 0; }
-section.strapline h2.location { background-color: #000; font-size: 26px; margin: 0 auto; padding: 20px 0 10px; }
+section.strapline h1 { background-color: #000; font-size: 32px; margin: 0 auto; padding: 20px 0 10px; }
+section.strapline h2.location { background-color: #000; font-size: 26px; margin: 0 auto; padding: 20px 0; }
 section.strapline h2 a { color: #fff; }
 section.hero { margin: 35px auto 0; }
 ul { list-style-type: none; margin: 0; padding: 0; text-align: center; }
